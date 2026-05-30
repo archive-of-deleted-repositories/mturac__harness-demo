@@ -1,0 +1,5 @@
+demo.db
+test_demo.db
+__pycache__/
+*.pyc
+.pytest_cache/
